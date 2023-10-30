@@ -1,0 +1,10 @@
+torch
+torchvision
+# faiss-gpu
+faiss-cpu
+streamlit
+ftfy
+regex
+tqdm
+click
+git+https://github.com/openai/CLIP.git
